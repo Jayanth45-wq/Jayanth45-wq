@@ -36,7 +36,7 @@ I enjoy learning new technologies and building practical projects.
 - ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 </p>
 
 ## 📊 GitHub Stats
