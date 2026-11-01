@@ -32,3 +32,15 @@ I enjoy learning new technologies and building practical projects.
 ## Connect With Me
 
 - GitHub: https://github.com/Jayanth45-wq
+
+- ## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,git,github,vscode" />
+</p>
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayanth45-wq&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanth45-wq&layout=compact&theme=tokyonight)
