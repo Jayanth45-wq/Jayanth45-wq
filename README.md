@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**Jayanth45-wq/Jayanth45-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jayanth Pamarthi 👋
 
-Here are some ideas to get you started:
+### Aspiring AI/ML Developer | CSE Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science and Engineering student passionate about
+Artificial Intelligence, Machine Learning, and Software Development.
+
+I enjoy learning new technologies and building practical projects.
+
+## About Me
+
+- 🎓 CSE Student
+- 💻 Interested in AI and Machine Learning
+- 🌱 Currently improving my Python and SQL skills
+- 🔭 Working on practical development projects
+- 🎯 Goal: Become an AI/ML Developer
+
+## Technical Skills
+
+- Programming: Python, Java
+- Database: SQL
+- Web: HTML, CSS Basics
+- Libraries: NumPy, Pandas, Matplotlib
+
+## Projects
+
+- Customer Churn Risk Analysis
+- Smart Attendance Using QR Code
+- Python Programming Practice
+
+## Connect With Me
+
+- GitHub: https://github.com/Jayanth45-wq
